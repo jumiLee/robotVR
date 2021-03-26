@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 
 <%
-	int user_account=19;
+	int user_account=24;
 %>
 user_account : <%=user_account %> <br>
 [공통] <br>
